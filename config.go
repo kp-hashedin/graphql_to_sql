@@ -7,10 +7,10 @@ import (
 )
 
 const (
-	Host     = "satao.db.elephantsql.com"
-	User     = "bbidheld"
-	Password = "hjXHmHIpHSxO2crbANFE26gmYkhml1nI"
-	Name     = "bbidheld"
+	Host     = "HOSTNAME
+	User     = "USERNAME"
+	Password = "POASSWORD"
+	Name     = "DBNAME"
 	Port     = "5432"
 )
 
